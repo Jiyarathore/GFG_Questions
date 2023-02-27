@@ -38,7 +38,7 @@ You don't need to read input or print anything. Your task is to complete the fun
 <p><br>
 <span style="font-size:18px"><strong>Expected Time Complexity</strong>: O(NlogN)<br>
 <strong>Expected Auxilliary Space</strong>: O(N)</span></p>
-
+1
 <p><br>
 <span style="font-size:18px"><strong>Constraints:</strong><br>
 1 &lt;= N &lt;= 10<sup>5</sup><br>
